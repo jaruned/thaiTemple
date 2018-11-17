@@ -1,5 +1,5 @@
 {
-  "name": "thaitemple",
+  "name": "thaiTemple",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,10 +10,18 @@
     "type": "git",
     "url": "git+https://github.com/jaruned/thaiTemple.git"
   },
+  "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/jaruned/thaiTemple/issues"
   },
-  "homepage": "https://github.com/jaruned/thaiTemple#readme"
+  "homepage": "https://github.com/jaruned/thaiTemple#readme",
+  "dependencies": {
+    "bulma": "^0.7.2"
+  },
+  "devDependencies": {
+    "@fortawesome/fontawesome-free": "^5.5.0",
+    "http-server": "^0.11.1"
+  }
 }
